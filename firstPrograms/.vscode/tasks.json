@@ -7,7 +7,7 @@
             "command": "g++",
             "args": [
                 "-g",
-                "Concatenate.cpp"
+                "Printnumber.cpp"
             ],
             "group": {
                 "kind": "build",
